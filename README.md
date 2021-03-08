@@ -2,7 +2,7 @@ A few screensavers i've made while waiting for other things to load
 
 Fireworks
 
-![Alt Text](https://media.giphy.com/media/jcEmBDoeMDFOyx796L/giphy.gif)
+![Alt Text](https://media.giphy.com/media/2PXgiaWi9LHPknC8k9/giphy.gif)
 
 Gravity balls
 
