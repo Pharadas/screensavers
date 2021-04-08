@@ -4,6 +4,8 @@ Fireworks
 
 ![Alt Text](https://media.giphy.com/media/2PXgiaWi9LHPknC8k9/giphy.gif)
 
+These 2 screensavers ↑↓ use classes for practice, even though their inclusion is obtuse and unecessary.
+
 Gravity balls
 
 ![Alt Text](https://media.giphy.com/media/6zuh6AuT490Tc9ybSd/giphy.gif)
